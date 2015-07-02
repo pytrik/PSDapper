@@ -48,8 +48,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ImportXML.cs" />
+    <Compile Include="PSDapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Execute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
